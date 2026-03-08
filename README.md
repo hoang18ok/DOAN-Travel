@@ -65,7 +65,7 @@
 ### Steps to Install:
 
 1. **Clone the Repository**:
-   ```bash
+   ```
   (https://github.com/hoang18ok/DOAN-Travel.git)
    cd Travel
    ```
